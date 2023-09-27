@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Palldanerar</h1>
+<h1 align="center">Hi wanderer, I'm Palldanerar</h1>
 
 <br>
 <br>
