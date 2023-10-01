@@ -10,16 +10,12 @@
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
-      <a href="#main">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-        <br>HTML5
-      </a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      <br>HTML5
     </td>
      <td align="center" width="110" height="90">
-       <a>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-         <br>CSS3
-       </a>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      <br>CSS3
     </td>
     <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
