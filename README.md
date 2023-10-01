@@ -10,7 +10,9 @@
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      <a href="#main">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
       <br>HTML5
     </td>
      <td align="center" width="110" height="90"> 
