@@ -39,14 +39,6 @@
       <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
       <br>Next JS
     </td>
-     <td align="center" width="110" height="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="110" height="90"> 
-      <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      <br>Vite
-    </td> 
    <td align="center" width="110" height="90">
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       <br>Tailwind
