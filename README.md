@@ -25,10 +25,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       <br>TypeScript
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="36" height="36" alt="python" />
-      <br>Python
-    </td>
 </table>
 
 > Frontend
@@ -38,10 +34,6 @@
    <td align="center" width="110" height="90">
       <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       <br>React JS
-    </td>
-    <td align="center" width="110" height="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="36" height="36" alt="vue3" />
-      <br>Vue3
     </td>
      <td align="center" width="110" height="90">
       <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
@@ -69,14 +61,6 @@
     <td align="center" width="110" height="90"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36 alt="expressjs" />
       <br>Express JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
-      <br>Flask
     </td>
     <td align="center" width="110" height="90"> 
       <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
