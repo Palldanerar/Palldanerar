@@ -1,7 +1,6 @@
 <h1 align="center">Hi wanderer, I'm Palldanerar</h1>
 
 <br>
-<br>
 
 <h2 align="left" id="debabin-stack">Tech stack🖥️</h2>
 
