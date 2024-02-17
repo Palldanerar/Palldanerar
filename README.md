@@ -3,7 +3,6 @@ Hi, I'm a Front-end Developer.
 
 
 ## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Palldanerar)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Palldanerar)
 
 # 💻 Tech Stack:
